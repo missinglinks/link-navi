@@ -1,7 +1,7 @@
 # link-navi
 
 Python module for extracting hyperlinks from strings.
-Also gathers additional metadata for the link (e.g. if its a youtube video: video statistics and channel name).
+Also gathers additional metadata for links (e.g. if its a youtube video: video statistics and channel name).
 
 Currently identifies the following links:
 * Youtube
