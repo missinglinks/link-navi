@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+test.ipynb
+linknavi.egg-info/
+.eggs/
